@@ -1,4 +1,4 @@
-## ---- include = FALSE---------------------------------------------------------
+## ----include = FALSE----------------------------------------------------------
 knitr::opts_chunk$set(
   fig.width = 6,
   fig.heigth = 2,
@@ -123,6 +123,6 @@ plot_collection(collection3, number = 3, methods = "ets")
 ## -----------------------------------------------------------------------------
 plot_collection(collection3, number = 3, methods = "arima", level = 90)
 
-## ---- eval=FALSE--------------------------------------------------------------
+## ----eval=FALSE---------------------------------------------------------------
 #  GUI_collection(collection3)
 

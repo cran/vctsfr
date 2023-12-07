@@ -1,6 +1,6 @@
 Package: vctsfr
 Title: Visualizing Collections of Time Series Forecasts
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Maria Pilar", "Frias-Bustamante", email = "mpfrias@ujaen.es",
             role = c("aut"), comment = c(ORCID = "0000-0001-6886-0953")),
@@ -22,10 +22,10 @@ URL: https://github.com/franciscomartinezdelrio/vctsfr
 BugReports: https://github.com/franciscomartinezdelrio/vctsfr/issues
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2023-03-30 08:45:50 UTC; UJA
+Packaged: 2023-12-07 18:35:18 UTC; UJA
 Author: Maria Pilar Frias-Bustamante [aut]
     (<https://orcid.org/0000-0001-6886-0953>),
   Francisco Martinez [aut, cre, cph]
     (<https://orcid.org/0000-0002-5206-1898>)
 Repository: CRAN
-Date/Publication: 2023-03-30 09:20:02 UTC
+Date/Publication: 2023-12-07 18:50:02 UTC
